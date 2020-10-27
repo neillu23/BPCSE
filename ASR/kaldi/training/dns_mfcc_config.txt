@@ -1,0 +1,2 @@
+--frame-length=32 
+--frame-shift=16
